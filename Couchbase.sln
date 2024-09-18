@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couchbase.Demoes", "Couchbase.Demoes\Couchbase.Demoes.csproj", "{B3895D09-0DE0-4C30-AAFF-9BA9100EED7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchBase.API", "CouchBase.API\CouchBase.API.csproj", "{4280C163-D9B3-432F-B71A-4463005B5B59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B3895D09-0DE0-4C30-AAFF-9BA9100EED7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3895D09-0DE0-4C30-AAFF-9BA9100EED7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3895D09-0DE0-4C30-AAFF-9BA9100EED7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4280C163-D9B3-432F-B71A-4463005B5B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4280C163-D9B3-432F-B71A-4463005B5B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4280C163-D9B3-432F-B71A-4463005B5B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4280C163-D9B3-432F-B71A-4463005B5B59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
